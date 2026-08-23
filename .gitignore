@@ -1,0 +1,18 @@
+# Local dataset artifacts
+# Keep the generated dataset out of git to avoid large uploads and reproducible data duplication.
+dataset/person_vehicle/
+dataset/annotations/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+env/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+path: D:/sandbox/tinyvision-mcu-benchmark/dataset/person_vehicle
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: vehicle
